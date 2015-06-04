@@ -56,7 +56,7 @@ $(function () {
         this.data = {};
         this.level = 1;
         this.total = 0;
-        this.serverPath ="http://text/....";
+        this.serverPath ="http://text/...." ;
         this.levelUp =false;
     }
     var setting = new Opt();
